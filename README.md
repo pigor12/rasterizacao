@@ -12,3 +12,7 @@
 Para alcançar um resultado interessante, foram utilizadas bibliotecas do OpenGL
 com a **linguagem C++**. Seu diferencial é a capacidade de gerar diferentes formas alterando apenas um valor.
 Modificando o último valor da linha AjustarPosicoes(....,3);, aumenta ou reduz a ação da recursividade, ou seja, serão gerados diferentes triângulos. Segue abaixo alguns resultados obtidos:
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/pigor12/rasterizacao/main/Print.png"/>
+</p>
